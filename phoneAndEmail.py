@@ -9,7 +9,7 @@ Created on Fri Dec 25 15:51:49 2020
 import pyperclip, re
 
 # Regex for finding US number
-phoneRegex = re.compile(r"1[\s|-]\d{3}[. | -]\d{3}[. | -]\d{4}")
+phoneRegex = re.compile(r"[+]?1[\s|-]\d{3}[. | -]\d{3}[. | -]\d{4}")
 
 # Regex for finding email
 emailRegex = re.compile(r"\w+@\w+.com")
