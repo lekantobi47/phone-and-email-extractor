@@ -1,5 +1,5 @@
 # phone-and-email-extractor
-A simple script to extract phone number and email from clipboard and paste them back in neatly format to clipboard 
+A simple script to extract phone number and email from clipboard and paste them back in neatly format
 <p>Matches +1 xxx.xxx.xxxx and 1-xxx-xxx-xxxx format</p>
 
 <h3>Dependency</h3>
