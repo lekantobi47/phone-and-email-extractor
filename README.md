@@ -1,10 +1,10 @@
 # phone-and-email-extractor
 A simple script to extract phone number and email from clipboard and paste them back in neatly format to clipboard 
 
-# Dependency
+<h3>Dependency</h3>
 requires pyperclip
 
-# Run
+<h3>Run</h3>
 <ul>
   <li>clone repository</li>
   <li>cd phone-and-email-extractor</li>
